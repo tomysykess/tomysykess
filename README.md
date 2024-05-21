@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Tomas Avila</h2>
 
 <p align="center">
-  A passionate Front-end Javascript Developer and UI/UX Designer from Argentina
+  <strong>A passionate Front-end Javascript Developer and UI/UX Designer from Argentina</strong>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A passionate Web Developer from La Plata🐺, Argentina
+ <strong> A passionate Web Developer from La Plata🐺, Argentina</strong>
 </p>
 
 <p align="center">
