@@ -1,12 +1,20 @@
 <h2 align="center">Hi 👋, I'm Tomas Avila</h2>
 
-A passionate Front-end Javascript Developer and UI/UX Design from Argentina
+<p align="center">
+  A passionate Front-end Javascript Developer and UI/UX Designer from Argentina
+</p>
 
-Currently training as a fullstack at the HENRY academy
+<p align="center">
+  Currently training as a fullstack at the HENRY academy.
+</p>
 
-A passionate Web Developer from La Plata🐺, Argentina
+<p align="center">
+  A passionate Web Developer from La Plata🐺, Argentina
+</p>
 
-Currently training as a Full Stack Web Developer at the HENRY academy
+<p align="center">
+  Currently training as a Full Stack Web Developer at the HENRY academy.
+</p>
 
 🌱 I’m currently learning React, Javascript, Node.JS, Redux, SQL, Express.JS, Sequelize.JS, HTML, CSS, HTML5, PostgreSQL
 ## 🔗 Links
