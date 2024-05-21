@@ -12,6 +12,7 @@
 </p>
 * 🌱 I’m currently learning React, Javascript, Node.JS, Redux, SQL, Express.JS, Sequelize.JS, HTML, CSS, HTML5, PostgreSQL
 * 📫 How to reach me tomysykess@gmail.com
+
 ## 💻 Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
