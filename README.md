@@ -3,19 +3,13 @@
 <p align="center">
   <strong>A passionate Front-end Javascript Developer and UI/UX Designer from Argentina</strong>
 </p>
-
 <p align="center">
-  Currently training as a fullstack at the HENRY academy.
+  Currently training as a Full Stack Web Developer at the HENRY academy.
 </p>
 
 <p align="center">
  <strong> A passionate Web Developer from La Plata🐺, Argentina</strong>
 </p>
-
-<p align="center">
-  Currently training as a Full Stack Web Developer at the HENRY academy.
-</p>
-
 * 🌱 I’m currently learning React, Javascript, Node.JS, Redux, SQL, Express.JS, Sequelize.JS, HTML, CSS, HTML5, PostgreSQL
 * 📫 How to reach me tomysykess@gmail.com
 ## 💻 Tech Stack
@@ -29,4 +23,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+
 
