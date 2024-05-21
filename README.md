@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tomas Avila
+<h2 align="center">Hi 👋, I'm Tomas Avila</h2>
 
 A passionate Front-end Javascript Developer and UI/UX Design from Argentina
 
