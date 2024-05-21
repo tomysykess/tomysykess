@@ -18,10 +18,6 @@
 
 * 🌱 I’m currently learning React, Javascript, Node.JS, Redux, SQL, Express.JS, Sequelize.JS, HTML, CSS, HTML5, PostgreSQL
 * 📫 How to reach me tomysykess@gmail.com
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-emiliano-avila)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
