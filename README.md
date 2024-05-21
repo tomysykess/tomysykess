@@ -10,7 +10,9 @@
 <p align="center">
  <strong> A passionate Web Developer from La Plata🐺, Argentina</strong>
 </p>
+
 * 🌱 I’m currently learning React, Javascript, Node.JS, Redux, SQL, Express.JS, Sequelize.JS, HTML, CSS, HTML5, PostgreSQL
+
 * 📫 How to reach me tomysykess@gmail.com
 
 ## 💻 Tech Stack
