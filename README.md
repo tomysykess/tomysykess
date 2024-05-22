@@ -11,7 +11,7 @@
  <strong> A passionate Web Developer from La Plata🐺, Argentina</strong>
 </p>
 
-* 🌱 I’m currently learning React, Javascript, Node.JS, Redux, SQL, Express.JS, Sequelize.JS, HTML, CSS, HTML5, PostgreSQL
+* 🌱 I’m currently learning React, Next.js, Tailwind, Javascript, Typescript, Node.JS, Redux, SQL, Express.JS, PostgreSQL
 
 * 📫 How to reach me tomysykess@gmail.com
 
