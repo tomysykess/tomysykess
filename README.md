@@ -35,7 +35,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
   </div>
-<img src="">
+<!-- <img src=""> -->
 
 
 
