@@ -14,8 +14,7 @@
 * 🌱 I’m currently learning React, Next.js, Tailwind, Javascript, Typescript, Node.JS, Redux, SQL, Express.JS, PostgreSQL
 
 * 📫 How to reach me tomysykess@gmail.com
-
-## 💻<h2 align="center"> Tech Stack</h2>
+<h2 align="center">💻Tech Stack</h2>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
