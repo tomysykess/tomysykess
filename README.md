@@ -14,9 +14,12 @@
 
 ---
 
-### 🌱 Current Focus
-- Expanding my expertise in **React**, **Next.js**, **Tailwind CSS**, **TypeScript**, **Node.js**, **Redux Toolkit**, and more.  
-- Improving **UI/UX design** skills and exploring 3D rendering with **THREE.js**.  
+### 🌟 Areas of Expertise
+- Building high-performance web applications with **React**, **Next.js**, and **TypeScript**.
+- Crafting visually stunning and responsive designs with **Tailwind CSS** and **Figma**.
+- Developing scalable and efficient back-end solutions with **Node.js** and **Express.js**.
+- Implementing immersive 3D experiences using **THREE.js**.
+ 
 
 ### 📫 Let's Connect
 Feel free to reach out: **tomysykess@gmail.com**
