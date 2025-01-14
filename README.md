@@ -43,10 +43,10 @@ Feel free to reach out: **tomysykess@gmail.com**
 ---
 
 ### 🏆 Projects
-- **[Web Design UX/UI - Club Gimnasia y Esgrima La Plata](#):** Redesigned the official website focusing on accessibility and performance.  
-- **[CrystalForge Startup Demo](#):** Conceptual design for a fictional startup showcasing innovative front-end techniques.  
-- **[3D Landing Page - Futuristic Design](#):** Created an immersive page using **THREE.js** with advanced 3D rendering.  
-- **[Guardians of the Ball 3D Demo](#):** Developed a 3D interactive environment inspired by modern gaming design.  
+- **[Web Design UX/UI - Club Gimnasia y Esgrima La Plata](https://drive.google.com/file/d/1GXPGTotmDR2fMjCkdvifMyEUB0dawASz/view?usp=sharing):** Redesigned the official website focusing on accessibility and performance.  
+- **[CrystalForge Startup Demo](https://www.linkedin.com/feed/update/urn:li:activity:7259597719604789248/):** Conceptual design for a fictional startup showcasing innovative front-end techniques.  
+- **[3D Landing Page - Futuristic Design](https://www.linkedin.com/feed/update/urn:li:activity:7250901290883440640/):** Created an immersive page using **THREE.js** with advanced 3D rendering.  
+- **[Guardians of the Ball 3D Demo](https://drive.google.com/file/d/1EuWFCZYeURbwM3hTFmvpN12QD9tZ5G3F/view?usp=sharing):** Developed a 3D interactive environment inspired by modern gaming design.  
 
 ---
 
