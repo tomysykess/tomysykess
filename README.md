@@ -1,5 +1,5 @@
 <h2 align="center">Hola 👋, soy Tomás Ávila</h2> 
-<p align="center"> <strong>Desarrollador Full Stack | Web & Mobile | Tecnólogo Creativo</strong> </p> 
+<p align="center"> <strong>Desarrollador Full Stack | Web & Mobile | UX/UI </strong> </p> 
 <p align="center"> Apasionado por crear experiencias digitales únicas y funcionales, combinando habilidades técnicas con una visión artística. </p> 
 <p align="center"> Con base en La Plata 🐺, Argentina, me especializo en el desarrollo de aplicaciones web y móviles con un enfoque en diseño, usabilidad y rendimiento. </p>
 
