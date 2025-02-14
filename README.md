@@ -5,11 +5,12 @@
 
 ---
 
-### 🌟 Areas of Expertise
-- Building high-performance web applications with **React**, **Next.js**, and **TypeScript**.
-- Crafting visually stunning and responsive designs with **Tailwind CSS** and **Figma**.
-- Developing scalable and efficient back-end solutions with **Node.js** and **Express.js**.
-- Implementing immersive 3D experiences using **THREE.js**.
+###🌟 Áreas de Especialización
+Desarrollo de aplicaciones web y móviles con React, React Native, Next.js y TypeScript.
+Creación de interfaces dinámicas y responsivas con Tailwind CSS y Figma.
+Desarrollo backend con Node.js y Express.js, asegurando escalabilidad y eficiencia.
+Diseño de experiencias 3D inmersivas con THREE.js.
+
  
 
 ### 📫 Let's Connect
