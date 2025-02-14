@@ -5,7 +5,7 @@
 
 ---
 
-###🌟 Áreas de Especialización
+### 🌟 Áreas de Especialización
 Desarrollo de aplicaciones web y móviles con React, React Native, Next.js y TypeScript.
 Creación de interfaces dinámicas y responsivas con Tailwind CSS y Figma.
 Desarrollo backend con Node.js y Express.js, asegurando escalabilidad y eficiencia.
@@ -13,8 +13,8 @@ Diseño de experiencias 3D inmersivas con THREE.js.
 
  
 
-### 📫 Let's Connect
-Feel free to reach out: **tomysykess@gmail.com**
+### 📫 Conectemos
+Si quieres hablar sobre tecnología, diseño o proyectos, puedes escribirme a: **tomysykess@gmail.com**
 
 ---
 
@@ -45,7 +45,7 @@ Feel free to reach out: **tomysykess@gmail.com**
 
 ---
 
-Thank you for stopping by! 🌟
+🚀 Gracias por visitar mi perfil. ¡Siempre en busca de nuevos desafíos! 🎨💻
 
 <!-- <img src=""> -->
 
