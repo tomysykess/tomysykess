@@ -1,24 +1,25 @@
-<h2 align="center">Hola 👋, soy Tomás Ávila</h2> 
-<p align="center"> <strong>Desarrollador Full Stack | Web & Mobile | UX/UI </strong> </p> 
-<p align="center"> Apasionado por crear experiencias digitales únicas y funcionales, combinando habilidades técnicas con una visión artística. </p> 
-<p align="center"> Con base en La Plata 🐺, Argentina, me especializo en el desarrollo de aplicaciones web y móviles con un enfoque en diseño, usabilidad y rendimiento. </p>
+<h2 align="center">Hola! soy Tomás Avila</h2> 
+<p align="center"><strong>Desarrollador Full Stack | Web & Mobile | UX/UI</strong></p> 
+<p align="center">Apasionado por crear experiencias digitales únicas y funcionales, combinando habilidades técnicas con una visión artística.</p> 
+<p align="center">Vivo en La Plata 🐺, Argentina, y me especializo en el desarrollo de aplicaciones web y móviles, enfocándome en diseño, usabilidad y rendimiento.</p>
 
 ---
 
-### 🌟 Áreas de Especialización
+### 🔵 Áreas de Especialización
 Desarrollo de aplicaciones web y móviles con React, React Native, Next.js y TypeScript.
 Creación de interfaces dinámicas y responsivas con Tailwind CSS y Figma.
 Desarrollo backend con Node.js y Express.js, asegurando escalabilidad y eficiencia.
 Diseño de experiencias 3D inmersivas con THREE.js.
+Desarrollo y optimización de aplicaciones para Android e iOS, garantizando una experiencia fluida en múltiples dispositivos.
 
  
 
-### 📫 Conectemos
-Si quieres hablar sobre tecnología, diseño o proyectos, puedes escribirme a: **tomysykess@gmail.com**
+### 🔵 Conectemos
+Si quieres hablar sobre tecnología, diseño o proyectos, escríbeme a: **tomysykess@gmail.com**
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">🔵 Tech Stack</h2>
 
 <div align="center">
   
@@ -37,7 +38,7 @@ Si quieres hablar sobre tecnología, diseño o proyectos, puedes escribirme a: *
 
 ---
 
-### 🏆 Projects
+### 🔵 Projects
 - **[Web Design UX/UI - Club Gimnasia y Esgrima La Plata](https://drive.google.com/file/d/1GXPGTotmDR2fMjCkdvifMyEUB0dawASz/view?usp=sharing):** Redesigned the official website focusing on accessibility and performance.  
 - **[CrystalForge Startup Demo](https://www.linkedin.com/feed/update/urn:li:activity:7259597719604789248/):** Conceptual design for a fictional startup showcasing innovative front-end techniques.  
 - **[3D Landing Page - Futuristic Design](https://www.linkedin.com/feed/update/urn:li:activity:7250901290883440640/):** Created an immersive page using **THREE.js** with advanced 3D rendering.  
@@ -45,7 +46,7 @@ Si quieres hablar sobre tecnología, diseño o proyectos, puedes escribirme a: *
 
 ---
 
-🚀 Gracias por visitar mi perfil. ¡Siempre en busca de nuevos desafíos! 🎨💻
+🔵 Gracias por visitar mi perfil. ¡Siempre en busca de nuevos desafíos! 
 
 <!-- <img src=""> -->
 
