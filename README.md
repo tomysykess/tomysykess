@@ -1,16 +1,7 @@
-<h2 align="center">Hi 👋, I'm Tomas Avila</h2>
-
-<p align="center">
-  <strong>Frontend Developer | Creative Technologist</strong>
-</p>
-
-<p align="center">
-  Passionate about building unique and functional web experiences, combining technical skills with artistic vision.
-</p>
-
-<p align="center">
-  Based in La Plata 🐺, Argentina, I specialize in creating responsive, dynamic, and user-friendly interfaces using cutting-edge technologies.
-</p>
+<h2 align="center">Hola 👋, soy Tomás Ávila</h2> 
+<p align="center"> <strong>Desarrollador Full Stack | Web & Mobile | Tecnólogo Creativo</strong> </p> 
+<p align="center"> Apasionado por crear experiencias digitales únicas y funcionales, combinando habilidades técnicas con una visión artística. </p> 
+<p align="center"> Con base en La Plata 🐺, Argentina, me especializo en el desarrollo de aplicaciones web y móviles con un enfoque en diseño, usabilidad y rendimiento. </p>
 
 ---
 
